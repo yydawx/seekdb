@@ -1,3 +1,10 @@
+<!-- 2026 OceanBase Database Competition · team verification -->
+> **2026 OceanBase 数据库大赛 · 本队验证行**
+>
+> `OB-P:UWE4SF-fZjH31Z0xjr_TWw`
+
+---
+
 <div align="center">
 
 <picture>
